@@ -61,5 +61,8 @@ public class Home_Page {
 	public void Click_funds() {
 		funds.click();
 	}
+	public void Fundskeys() {
+		funds.sendKeys("12345");
+	}
 	
 }
